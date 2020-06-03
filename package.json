@@ -18,6 +18,7 @@
   "homepage": "https://github.com/psy6dyp/webpack_test#readme",
   "devDependencies": {
     "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^4.3.0",
     "less": "^3.11.2",
     "less-loader": "^6.1.0",
     "style-loader": "^1.2.1",
